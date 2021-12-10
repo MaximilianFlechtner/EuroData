@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{DC352D2E-8701-4A9B-9B9B-89440C1B275A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Abteilung.cs">
+    <Files>
+      <File FileName="Abteilung.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EuroData" expanded="True">
+            <Node name="EuroData" expanded="True">
+              <Node name="Abteilung.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EuroData PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

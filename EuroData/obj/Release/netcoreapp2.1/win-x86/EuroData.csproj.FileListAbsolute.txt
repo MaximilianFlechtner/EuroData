@@ -1,0 +1,14 @@
+C:\Users\ring\source\repos\EuroData\EuroData\bin\Release\netcoreapp2.1\win-x86\hostpolicy.dll
+C:\Users\ring\source\repos\EuroData\EuroData\bin\Release\netcoreapp2.1\win-x86\hostfxr.dll
+C:\Users\ring\source\repos\EuroData\EuroData\bin\Release\netcoreapp2.1\win-x86\EuroData.exe
+C:\Users\ring\source\repos\EuroData\EuroData\bin\Release\netcoreapp2.1\win-x86\EuroData.deps.json
+C:\Users\ring\source\repos\EuroData\EuroData\bin\Release\netcoreapp2.1\win-x86\EuroData.runtimeconfig.json
+C:\Users\ring\source\repos\EuroData\EuroData\bin\Release\netcoreapp2.1\win-x86\EuroData.runtimeconfig.dev.json
+C:\Users\ring\source\repos\EuroData\EuroData\bin\Release\netcoreapp2.1\win-x86\EuroData.dll
+C:\Users\ring\source\repos\EuroData\EuroData\bin\Release\netcoreapp2.1\win-x86\EuroData.pdb
+C:\Users\ring\source\repos\EuroData\EuroData\obj\Release\netcoreapp2.1\win-x86\EuroData.csprojAssemblyReference.cache
+C:\Users\ring\source\repos\EuroData\EuroData\obj\Release\netcoreapp2.1\win-x86\EuroData.csproj.CoreCompileInputs.cache
+C:\Users\ring\source\repos\EuroData\EuroData\obj\Release\netcoreapp2.1\win-x86\EuroData.AssemblyInfoInputs.cache
+C:\Users\ring\source\repos\EuroData\EuroData\obj\Release\netcoreapp2.1\win-x86\EuroData.AssemblyInfo.cs
+C:\Users\ring\source\repos\EuroData\EuroData\obj\Release\netcoreapp2.1\win-x86\EuroData.dll
+C:\Users\ring\source\repos\EuroData\EuroData\obj\Release\netcoreapp2.1\win-x86\EuroData.pdb

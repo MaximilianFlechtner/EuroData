@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "UY4Y9VRXJSLqCEnwNmfa19mjeN3J/jy6AmY1f9o67WzzMfar/+reG7OK/lByalbHBeqch0U/58tJZ3msaa+/8Q==",
+  "success": true,
+  "projectFilePath": "/Users/maximilianflechtner/Downloads/EuroData/EuroData/EuroData.csproj",
+  "expectedPackageFiles": [
+    "/Users/maximilianflechtner/.nuget/packages/microsoft.netcore.app/2.1.0/microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "/Users/maximilianflechtner/.nuget/packages/microsoft.netcore.dotnetapphost/2.1.0/microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "/Users/maximilianflechtner/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.1.0/microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "/Users/maximilianflechtner/.nuget/packages/microsoft.netcore.dotnethostresolver/2.1.0/microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "/Users/maximilianflechtner/.nuget/packages/microsoft.netcore.platforms/2.1.0/microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "/Users/maximilianflechtner/.nuget/packages/microsoft.netcore.targets/2.1.0/microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "/Users/maximilianflechtner/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

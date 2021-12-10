@@ -1,0 +1,10 @@
+C:\Users\ring\source\repos\EuroData\EuroData\bin\Debug\netcoreapp2.1\EuroData.deps.json
+C:\Users\ring\source\repos\EuroData\EuroData\bin\Debug\netcoreapp2.1\EuroData.runtimeconfig.json
+C:\Users\ring\source\repos\EuroData\EuroData\bin\Debug\netcoreapp2.1\EuroData.runtimeconfig.dev.json
+C:\Users\ring\source\repos\EuroData\EuroData\bin\Debug\netcoreapp2.1\EuroData.dll
+C:\Users\ring\source\repos\EuroData\EuroData\bin\Debug\netcoreapp2.1\EuroData.pdb
+C:\Users\ring\source\repos\EuroData\EuroData\obj\Debug\netcoreapp2.1\EuroData.csproj.CoreCompileInputs.cache
+C:\Users\ring\source\repos\EuroData\EuroData\obj\Debug\netcoreapp2.1\EuroData.AssemblyInfoInputs.cache
+C:\Users\ring\source\repos\EuroData\EuroData\obj\Debug\netcoreapp2.1\EuroData.AssemblyInfo.cs
+C:\Users\ring\source\repos\EuroData\EuroData\obj\Debug\netcoreapp2.1\EuroData.dll
+C:\Users\ring\source\repos\EuroData\EuroData\obj\Debug\netcoreapp2.1\EuroData.pdb
